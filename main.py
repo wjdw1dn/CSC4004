@@ -1,5 +1,5 @@
 name = input("Name: ")
-id = input("ID: ")
+idnum = input("ID: ")
 major = input("Major: ")
-print("이름: {name}\n학번: {id}\n학과: {major}")
+print("이름: {name}\n학번: {idnum}\n학과: {major}")
 
